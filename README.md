@@ -28,6 +28,13 @@ A budget tracker that has offline access and functionality, giving users the abi
 5. Add some additional transactions, then set the Service Worker back to online and refresh.
 6. You should be able to see your offline transactions synced up with your online transactions.
 
+# Example
+ONLINE:
+![Online](public/images/example1.png)
+
+OFFLINE:
+![Offline](public/images/example2.png)
+
 ## Technology Used
 
 1. Frontend technologies
