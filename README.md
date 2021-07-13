@@ -20,7 +20,15 @@ A budget tracker that has offline access and functionality, giving users the abi
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://enigmatic-lowlands-43601.herokuapp.com/)
 
-## Technologie Used
+## Usage
+1. Navigate to 
+2. Add withdrawals and deposits as desired
+3. Right click, and choose Inspect. Navigate to Application, and from there to Service Workers.
+4. Set service worker to offline, and reload. You are now working offline.
+5. Add some additional transactions, then set the Service Worker back to online and refresh.
+6. You should be able to see your offline transactions synced up with your online transactions.
+
+## Technology Used
 
 1. Frontend technologies
 * HTML
