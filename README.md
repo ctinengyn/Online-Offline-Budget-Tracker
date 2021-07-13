@@ -12,10 +12,28 @@
     <a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/-Mongoose-lightgrey?style=for-the-badge" alt="Mongoose" /></a>
 </p>
 
-# Deployed Website: 
+## Description
+A budget tracker that has offline access and functionality, giving users the ability to view their tracker and also add expenses and deposits even without a connection. When users come back online, any data they entered while offline will automatically be sent to the server, giving a seamless experience as if they were never disconnected.
+
+## Deployed Website: 
 [Online and Offline Budget Tracker](https://enigmatic-lowlands-43601.herokuapp.com/)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://enigmatic-lowlands-43601.herokuapp.com/)
+
+## Technologie Used
+
+1. Frontend technologies
+* HTML
+* CSS
+* Bootstrap 
+* Javascript
+
+2. Backend technologies
+* NodeJS 
+* MongoDB (mLab)
+* Express 
+* Mongoose schema
+* Heroku (Deployment)
 
 ## Contact
 **Email:**
