@@ -16,12 +16,12 @@
 A budget tracker that has offline access and functionality, giving users the ability to view their tracker and also add expenses and deposits even without a connection. When users come back online, any data they entered while offline will automatically be sent to the server, giving a seamless experience as if they were never disconnected.
 
 ## Deployed Website: 
-[Online and Offline Budget Tracker](https://enigmatic-lowlands-43601.herokuapp.com/)
+[Online and Offline Budget Tracker](https://dry-caverns-13937.herokuapp.com/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://enigmatic-lowlands-43601.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dry-caverns-13937.herokuapp.com/)
 
 ## Usage
-1. Navigate to 
+1. Navigate to [Deployed Link](https://dry-caverns-13937.herokuapp.com/)
 2. Add withdrawals and deposits as desired
 3. Right click, and choose Inspect. Navigate to Application, and from there to Service Workers.
 4. Set service worker to offline, and reload. You are now working offline.
